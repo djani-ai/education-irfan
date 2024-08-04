@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background-image: url('assets/hero-background.png');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.hero h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.5em;
+}
+
+table {
+    margin-top: 30px;
+}
+
+form {
+    margin-top: 30px;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+footer {
+    margin-top: 50px;
+}
